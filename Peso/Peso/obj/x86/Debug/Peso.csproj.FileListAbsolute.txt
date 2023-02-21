@@ -1,0 +1,4 @@
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Peso\Peso\bin\Debug\Peso.exe
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Peso\Peso\bin\Debug\Peso.pdb
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Peso\Peso\obj\x86\Debug\Peso.exe
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Peso\Peso\obj\x86\Debug\Peso.pdb
