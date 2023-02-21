@@ -1,0 +1,8 @@
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Exemplo II (23-03-22)\bin\Debug\Exemplo II (23-03-22).exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Exemplo II (23-03-22)\bin\Debug\Exemplo II (23-03-22).pdb
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Exemplo II (23-03-22)\obj\x86\Debug\Exemplo II (23-03-22).exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Exemplo II (23-03-22)\obj\x86\Debug\Exemplo II (23-03-22).pdb
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Exemplo II (23-03-22)\Exemplo II (23-03-22)\obj\x86\Debug\Exemplo II (23-03-22).exe
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Exemplo II (23-03-22)\Exemplo II (23-03-22)\obj\x86\Debug\Exemplo II (23-03-22).pdb
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Exemplo II (23-03-22)\Exemplo II (23-03-22)\bin\Debug\Exemplo II (23-03-22).exe
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Exemplo II (23-03-22)\Exemplo II (23-03-22)\bin\Debug\Exemplo II (23-03-22).pdb

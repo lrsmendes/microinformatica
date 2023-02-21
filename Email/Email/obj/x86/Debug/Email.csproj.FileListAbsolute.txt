@@ -1,0 +1,5 @@
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Email\Email\bin\Debug\Email.exe
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Email\Email\bin\Debug\Email.pdb
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Email\Email\obj\x86\Debug\Email.exe
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Email\Email\obj\x86\Debug\Email.pdb
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Email\Email\obj\x86\Debug\Email.csprojResolveAssemblyReference.cache

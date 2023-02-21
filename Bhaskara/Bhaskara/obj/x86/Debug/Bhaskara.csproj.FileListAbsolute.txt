@@ -1,0 +1,4 @@
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Bhaskara\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.exe
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Bhaskara\Bhaskara\obj\x86\Debug\Bhaskara.pdb

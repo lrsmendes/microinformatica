@@ -1,0 +1,4 @@
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Exemplo I (23-03-22)\bin\Debug\Exemplo I (23-03-22).exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Exemplo I (23-03-22)\bin\Debug\Exemplo I (23-03-22).pdb
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Exemplo I (23-03-22)\obj\x86\Debug\Exemplo I (23-03-22).exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Exemplo I (23-03-22)\obj\x86\Debug\Exemplo I (23-03-22).pdb

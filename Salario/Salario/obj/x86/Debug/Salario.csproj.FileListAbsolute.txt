@@ -1,0 +1,8 @@
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Salario\bin\Debug\Salario.exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Salario\bin\Debug\Salario.pdb
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Salario\obj\x86\Debug\Salario.exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Salario\obj\x86\Debug\Salario.pdb
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Salario\Salario\obj\x86\Debug\Salario.exe
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Salario\Salario\obj\x86\Debug\Salario.pdb
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Salario\Salario\bin\Debug\Salario.exe
+C:\Users\Anizawa\documents\visual studio 2010\Projects\Salario\Salario\bin\Debug\Salario.pdb

@@ -1,0 +1,8 @@
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Circulo\bin\Debug\Circulo.exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Circulo\bin\Debug\Circulo.pdb
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Circulo\obj\x86\Debug\Circulo.exe
+C:\Users\Anizawa\AppData\Local\Temporary Projects\Circulo\obj\x86\Debug\Circulo.pdb
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Circulo\Circulo\obj\x86\Debug\Circulo.exe
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Circulo\Circulo\obj\x86\Debug\Circulo.pdb
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Circulo\Circulo\bin\Debug\Circulo.exe
+C:\Users\Anizawa\Documents\Visual Studio 2010\Projects\Circulo\Circulo\bin\Debug\Circulo.pdb
